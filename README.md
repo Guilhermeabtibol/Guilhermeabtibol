@@ -24,6 +24,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guilhermeabtibol&radius=16&theme=one-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
 <img src="https://raw.githubusercontent.com/Guilhermeabtibol/Guilhermeabtibol/output/snake.svg" alt="Snake animation" />
 
 ###
